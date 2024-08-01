@@ -45,4 +45,4 @@ Controls for movement and rotation are:
 - `left-click`: shoot
 
 ---
-This project was developed collaboratively with [Andrii Syvash](https://github.com/redarling).
+This project was developed collaboratively with [Ismaël Mehdid](https://github.com/ismaelmehdid).
