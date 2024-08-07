@@ -22,11 +22,11 @@ To get started with the project, follow these steps:
 
         cd cub3d-42
 
-3. To build the project, execute the following command:
+3. To build the project, execute the following commands:
 
 ```shell
-$ git submodule update --init --recursive
-$ make
+git submodule update --init --recursive
+make
 ```
 
 ## Running the game
