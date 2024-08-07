@@ -8,18 +8,28 @@
 > 
 > ![ezgif-2-0e781d5019](https://github.com/user-attachments/assets/88b8ca2c-7254-4b21-8fa0-a2adfcad576d)
 
-### Instructions
+**Linux only**
 
-**Compiling the game**
+## 🛠️ Installation Instructions
 
-To compile, go to the project directory and run :
+To get started with the project, follow these steps:
+
+1. Clone the repository using the command:
+
+        git clone https://github.com/redarling/cub3d-42
+
+2. Navigate to the project directory:
+
+        cd cub3d-42
+
+3. To build the project, execute the following command:
 
 ```shell
 $ git submodule update --init --recursive
 $ make
 ```
 
-**Running the game**
+## Running the game
 
 ```shell
 ./cub3d <path/to/map.cub>
